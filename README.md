@@ -6,8 +6,8 @@ All the code in this project has been written using Python 2.7 and the Convoluti
 
 # External links :
 SVHN Database : Cropped digits 
-                [Training Dataset] http://ufldl.stanford.edu/housenumbers/train_32x32.mat
-                [Testing Dataset]  http://ufldl.stanford.edu/housenumbers/test_32x32.mat
+                - Training Dataset http://ufldl.stanford.edu/housenumbers/train_32x32.mat
+                - Testing Dataset  http://ufldl.stanford.edu/housenumbers/test_32x32.mat
 
 Download the two .mat files and put them in the "SVHN_Dataset" directory, one in training folder and other in testing one.
 
