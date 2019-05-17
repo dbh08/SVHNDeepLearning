@@ -10,7 +10,7 @@ SVHN Database : Cropped digits
   - Testing Dataset  http://ufldl.stanford.edu/housenumbers/test_32x32.mat
                
 
-Download the two .mat files and put them in the "SVHN_Dataset" directory, one in training folder and other in testing one.
+Download the two .mat files and put them in the "SVHN_Dataset" directory.
 
 # But What is SVHN Dataset ?
 
