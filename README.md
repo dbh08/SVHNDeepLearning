@@ -17,4 +17,13 @@ Download the two .mat files and put them in the "SVHN_Dataset" directory, one in
 SVHN is a real-world image dataset for developing machine learning and object recognition algorithms with minimal requirement on data preprocessing and formatting. It can be seen as similar in flavor to MNIST (e.g., the images are of small cropped digits), but incorporates an order of magnitude more labeled data (over 600,000 digit images) and comes from a significantly harder, unsolved, real world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images. 
 
 
+# Environment
+
+Python 3.7
+I run the code on Macbook Pro 2017, but i dont recommend it, for deep learning use powerfull PCs with good GPU is the best.
+  - Numpy 1.13.1
+  - Keras 2.1.6 
+  - Pandas 0.20.3
+  - TensorFlow 1.12.0 
+
 
